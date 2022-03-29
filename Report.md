@@ -1,6 +1,7 @@
 [//]: # (Image References)
 
 [image1]: results.png  "Results"
+[image2]: imgs/solved.png  "Results"
 
 ### Learning Algorithm
 
@@ -253,6 +254,8 @@ In the next figure we can see the plot of Score x Episodes til the end of episod
 ![image1]
 
 We can see that our agent was able to growth the reward received, showing the ability to learn with this env. and getting the score suggested by Udacity to declare the environment solved (more than +0.5) at episode **1462**!
+
+![image2]
 
 ### Ideas for Future Work
 
